@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Assigment_react_shopping_cart/static/css/main.60041163.css",
+    "main.js": "/Assigment_react_shopping_cart/static/js/main.503933f7.js",
+    "static/js/453.3f582f2c.chunk.js": "/Assigment_react_shopping_cart/static/js/453.3f582f2c.chunk.js",
+    "static/media/phone-1.png": "/Assigment_react_shopping_cart/static/media/phone-1.fa69b3770fd6611ae6d0.png",
+    "static/media/phone-2.png": "/Assigment_react_shopping_cart/static/media/phone-2.2001816c689c53959223.png",
+    "static/media/phone-3.png": "/Assigment_react_shopping_cart/static/media/phone-3.75cfe847c108ca32142f.png",
+    "static/media/phone-4.png": "/Assigment_react_shopping_cart/static/media/phone-4.fdbd902b42da0cb7637f.png",
+    "index.html": "/Assigment_react_shopping_cart/index.html",
+    "main.60041163.css.map": "/Assigment_react_shopping_cart/static/css/main.60041163.css.map",
+    "main.503933f7.js.map": "/Assigment_react_shopping_cart/static/js/main.503933f7.js.map",
+    "453.3f582f2c.chunk.js.map": "/Assigment_react_shopping_cart/static/js/453.3f582f2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60041163.css",
+    "static/js/main.503933f7.js"
+  ]
+}
