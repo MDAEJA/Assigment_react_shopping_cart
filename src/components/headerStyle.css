@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-div{
+    padding: 20px 20px;
+    background-color: #645cff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 50px;
+    color: white;
+    font-style: italic;
+}
+.cart-datils{
+    width:35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    position: relative;
+    left: -20px;
+    top: -10px;
+    padding: 5px 5px;
+}
